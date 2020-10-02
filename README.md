@@ -1,2 +1,4 @@
 # computer-science-engineering
-subject oriented matter
+I am a student of computer science and engineering.
+I love coding.
+python is my favourite programming language.
